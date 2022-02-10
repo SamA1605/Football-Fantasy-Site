@@ -1,0 +1,42 @@
+Make a game in Unreal Engine using C#
+
+Needs to involve-
+	User login/profile system	
+	Storing user/game data in a databas
+	Allowing users to see who else is online/logged in
+	Integration to the Twitter API
+	Splitting your app between a client/server to separate the front-end and back-end logic
+	persistent 'user' data such as a scoreboard or game stats
+	A reporting feature which is able to display those stats
+	'Chat' or messaging functionality between users
+
+
+The quality of the requirements you write can pretty much make or break your project - vague, wooly and ambiguous requirements are a guaranteed path to failure:
+	Make sure you draw up detailed UI "mock ups" that someone can look at to understand the context of the app and get a clear idea of how it should look.
+	Define 'personas' for different types of users which describe their expectations of the app you're writing (e.g. 'player' might be a persona)
+	Write User stories which describe at a high level how the user expects to interact with the app
+	Make sure your functional requirements include preconditions and expected outcomes (e.g. a precondition for shooting a gun might be that the gun has ammo, and the expected outcome might be that the gun shoots a bullet)
+	Define clear acceptance criteria which can be used to determine whether a functional requirement has been implemented properly
+	For each requirement, define functional tests which address every single one of your acceptance criteria by detailing the test steps, the inputs and the expected outcome.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Student Note Taking Software
+
+Lets student make timetables for lessons and homework
+Efficient note taking
+account that saves files locally
+Allow the user to create mindmaps, lists, tables and flashcards. 
+Similar to Microsoft Word, but more focussed on note-taking. 
+Calculates most efficient study times
+Allow the users to create a revision timetable to help them prepare for your next quiz, test or exam. 
+Could send you phone or email notifications of what and when to revise. 
+Could make a character recognition program to convert handwriting to text.
+
+
+
+Use file handling to make a txt file with all the details
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2D Physics simulation
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Golf game
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---Snooker game---
